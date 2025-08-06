@@ -67,7 +67,7 @@
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/Cvue.git
+git clone https://github.com/advin2321/Cvue.git
 cd Cvue
 python -m venv venv
 source venv/bin/activate    # or venv\Scripts\activate on Windows
